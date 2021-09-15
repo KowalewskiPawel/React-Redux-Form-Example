@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Redux-Form-Example/static/css/main.3b905ad2.chunk.css",
+    "main.js": "/React-Redux-Form-Example/static/js/main.5579a182.chunk.js",
+    "main.js.map": "/React-Redux-Form-Example/static/js/main.5579a182.chunk.js.map",
+    "runtime-main.js": "/React-Redux-Form-Example/static/js/runtime-main.a4b8235e.js",
+    "runtime-main.js.map": "/React-Redux-Form-Example/static/js/runtime-main.a4b8235e.js.map",
+    "static/js/2.0543b0c4.chunk.js": "/React-Redux-Form-Example/static/js/2.0543b0c4.chunk.js",
+    "static/js/2.0543b0c4.chunk.js.map": "/React-Redux-Form-Example/static/js/2.0543b0c4.chunk.js.map",
+    "index.html": "/React-Redux-Form-Example/index.html",
+    "static/css/main.3b905ad2.chunk.css.map": "/React-Redux-Form-Example/static/css/main.3b905ad2.chunk.css.map",
+    "static/js/2.0543b0c4.chunk.js.LICENSE.txt": "/React-Redux-Form-Example/static/js/2.0543b0c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4b8235e.js",
+    "static/js/2.0543b0c4.chunk.js",
+    "static/css/main.3b905ad2.chunk.css",
+    "static/js/main.5579a182.chunk.js"
+  ]
+}
